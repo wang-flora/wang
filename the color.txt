@@ -6,4 +6,3 @@ green
 cyan
 blue
 purple
-pink
